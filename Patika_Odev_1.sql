@@ -12,4 +12,6 @@ WHERE first_name = 'Mary';
 5.SELECT rental_rate, length FROM film 
 WHERE  NOT length > 49 AND ( rental_rate != 2.99 AND rental_rate != 4.99 ) ; 
 
+www.patika.dev
+
 
